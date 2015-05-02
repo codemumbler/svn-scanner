@@ -1,2 +1,2 @@
-# tripping-octo-meme
+# svn-scanner
 Find stale SVN directories
